@@ -30,6 +30,12 @@ h3{
 .bottom-container{
     
 }
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
 .pro{
     text-decoration: underline;
 }
@@ -37,11 +43,24 @@ h3{
 .top-cloud{
     position: absolute;
     right: 300px;
-    top: 300px;
+    top: 50px;
 }
 
-.bottom-container{
+.bottom-cloud{
     position: absolute;
     left: 300px;
     bottom: 300px;
 }
+
+.code-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chilli-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
